@@ -20,5 +20,43 @@
 		height: 500px;
 		padding-top: 100px;
 	}
+	body{
+		background-color: #f6b7b1;
+	}
+	
+	.center {
+	  display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+	  width: 50%;
+	}
+	.slider-image{
+		height: 500px !important;
+
+	}
+	.custom-product{
+		height: 500px;
+	}
+	.carousel-caption{
+		background-color: #79a5797a;
+	}
+	.trending-image{
+		height: 100px;
+	}
+	.trending-item{
+		float: left;
+		width: 20%;
+
+	}
+	.trending-wrapper{
+		margin: 30px;
+		
+	}
+	.detail-img{
+		height: 400px;
+	}
+	.search-box{
+		width: 500px !important;
+	}
 </style>
 </html>
